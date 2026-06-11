@@ -2,16 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=6&width=100%25" width="100%"/>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<br>
 
 # `CARLOS HENRIQUE`
 ### — CIÊNCIA DA COMPUTAÇÃO · DESENVOLVIMENTO DE JOGOS —
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=6&width=100%25" width="100%"/>
 
@@ -185,11 +181,11 @@ Aventura artística e filosófica sobre a experiência pós-morte. O jogador exp
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=6&width=100%25" width="100%"/>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-   — RECIFE · PERNAMBUCO · BRASIL —
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<br>
+
+<sub>— RECIFE · PERNAMBUCO · BRASIL —</sub>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=6&width=100%25" width="100%"/>
 
