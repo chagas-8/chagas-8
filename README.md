@@ -1,7 +1,4 @@
-<img width="1280" height="720" alt="VideoProject5-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e0cb2ffd-0aeb-46f3-9b8f-bb5b8ed841e2" />
 <div align="center">
-
-<!--  ██████╗  █████╗  ██████╗  ██╗     ███████╗  -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=6&width=100%25" width="100%"/>
 
@@ -10,7 +7,7 @@
 ```
 
 # `CARLOS HENRIQUE`
-### — CIÊNCIA DA COMPUTAÇÃO · GAME DEV  —
+### — CIÊNCIA DA COMPUTAÇÃO · DESENVOLVIMENTO DE JOGOS —
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
@@ -24,7 +21,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=20&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;CESAR+School+%E2%80%94+Recife%2C+PE;Python+%7C+IA+%7C+Desenvolvimento+de+Jogos;Will+you+accept+fate%3F+Or+rebel+against+it%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=20&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;CESAR+School+%E2%80%94+Recife%2C+PE;Python+%7C+Desenvolvimento+de+Jogos;Ainda+no+in%C3%ADcio%2C+mas+determinado+a+crescer.)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,11 +36,11 @@
 ║  NOME    → Carlos Henrique                       ║
 ║  CURSO   → Ciência da Computação                 ║
 ║  ESCOLA  → CESAR School, Recife — 2026~2029      ║
-║  FOCO    → Game Dev · Python · Inteligência AI   ║
+║  FOCO    → Desenvolvimento de Jogos · Python     ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-> *"A mask that defines who you are — or who you choose to become."*
+> *"A tecnologia sempre me fascinou. Estar estudando nessa área me fez perceber que estou no lugar certo."*
 
 <br>
 
@@ -57,7 +54,8 @@
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF0000)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000)
 
 **— FERRAMENTAS —**
 
@@ -78,7 +76,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/◆-FF0000?style=flat-square" alt=""/> &nbsp;`MISSÕES ATIVAS`
+## <img src="https://img.shields.io/badge/◆-FF0000?style=flat-square" alt=""/> &nbsp;`PROJETOS`
 
 <table>
 <tr>
@@ -87,12 +85,15 @@
 ### 🥊 &nbsp;`FANGS & FISTS`
 
 ```
-STATUS  ► EM DESENVOLVIMENTO
+STATUS  ► EM ANDAMENTO
 ENGINE  ► Python + Arduino + mBlock
 TIPO    ► Arcade físico acessível
 ```
 
-Arcade físico construído do zero — hardware e software. Um controlador acessível que une eletrônica e programação numa experiência tangível de jogo.
+Arcade físico de luta entre animais, inspirado no Animal Kaiser, controlado por apenas 4 botões. Desenvolvido com foco em acessibilidade para jogadores com autismo nível 1 e TDAH — as escolhas de lutadores são feitas por cartas físicas, reduzindo a sobrecarga cognitiva.
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver_no_GitHub-000000?style=flat-square&logo=github&logoColor=FF0000)](https://github.com/GManzii/Fangs-and-Fists)
+[![Site do grupo](https://img.shields.io/badge/Site_do_grupo-000000?style=flat-square&logoColor=FF0000)](https://sites.google.com/cesar.school/acessibilidade-e-jogos-grupo-1/home)
 
 </td>
 <td width="50%" valign="top">
@@ -100,14 +101,14 @@ Arcade físico construído do zero — hardware e software. Um controlador acess
 ### 🚗 &nbsp;`VELORIUM`
 
 ```
-STATUS  ► PUBLICADO ✓
+STATUS  ► CONCLUÍDO ✓
 ENGINE  ► Bitsy
 TIPO    ► Jogo narrativo indie
 ```
 
-Jogo criado no Bitsy e publicado no itch.io. Uma experiência narrativa minimalista com identidade visual própria.
+Aventura artística e filosófica sobre a experiência pós-morte. O jogador explora cenários inspirados em diferentes épocas da arte moderna — e o final muda conforme os itens coletados ao longo da jornada. Meu primeiro jogo completo.
 
-**[▶ JOGAR AGORA →](https://chcass8.itch.io/velorium)**
+[![Jogar no itch.io](https://img.shields.io/badge/▶_Jogar_agora-000000?style=flat-square&logo=itchdotio&logoColor=FF0000)](https://chcass8.itch.io/velorium)
 
 </td>
 </tr>
@@ -117,18 +118,37 @@ Jogo criado no Bitsy e publicado no itch.io. Uma experiência narrativa minimali
 
 ---
 
-## <img src="https://img.shields.io/badge/◆-FF0000?style=flat-square" alt=""/> &nbsp;`CERTIFICADOS`
+## <img src="https://img.shields.io/badge/◆-FF0000?style=flat-square" alt=""/> &nbsp;`INTERESSES`
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  ✦  Python Essentials 1          →  Cisco Networking Acad.  ║
-║  ✦  JavaScript Essentials 1      →  Cisco Networking Acad.  ║
-║  ✦  Gestão Ágil: Scrum & Kanban  →  Senac                   ║
-║  ✦  Inglês C1                    →  EF SET                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  01 ►  Desenvolvimento de jogos                                  ║
+║        Uma das razões de eu estar em Ciência da Computação.      ║
+║                                                                  ║
+║  02 ►  Python                                                    ║
+║        Linguagem que mais aprendi até agora e mais me interessa. ║
+║                                                                  ║
+║  03 ►  Ainda descobrindo                                         ║
+║        Primeiro período. Todo dia descubro mais sobre a área.    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+<br>
+
+---
+
+## <img src="https://img.shields.io/badge/◆-FF0000?style=flat-square" alt=""/> &nbsp;`CERTIFICADOS`
+
+<div align="center">
+
+[![Python Essentials 1](https://img.shields.io/badge/Python_Essentials_1-000000?style=for-the-badge&logo=python&logoColor=FF0000)](https://www.credly.com/badges/f03b5288-41c7-4f4a-b830-f8bbd2bf6345/linked_in_profile)
+[![JavaScript Essentials 1](https://img.shields.io/badge/JavaScript_Essentials_1-000000?style=for-the-badge&logo=javascript&logoColor=FF0000)](https://www.credly.com/badges/dadadb2c-0b01-49b4-9b1c-822d2881b30f/linked_in_profile)
+[![Scrum e Kanban](https://img.shields.io/badge/Gestão_Ágil:_Scrum_e_Kanban-000000?style=for-the-badge&logoColor=FF0000)](https://cursos-orango.senac.br/pluginfile.php/1/tool_certificate/issues/1775840271/3284181106CC.pdf)
+[![Inglês C1](https://img.shields.io/badge/Inglês_C1_(EF_SET)-000000?style=for-the-badge&logoColor=FF0000)](https://cert.efset.org/WHH7bY)
+
+</div>
 
 <br>
 
@@ -158,6 +178,7 @@ Jogo criado no Bitsy e publicado no itch.io. Uma experiência narrativa minimali
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://linkedin.com/in/carloshenriquecass)
 [![itch.io](https://img.shields.io/badge/itch.io-000000?style=for-the-badge&logo=itchdotio&logoColor=FF0000)](https://chcass8.itch.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=FF0000)](https://chagas-8.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:carloshcass@gmail.com)
 
 <br>
