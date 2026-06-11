@@ -31,10 +31,10 @@
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  NOME    → Carlos Henrique                       ║
-║  CURSO   → Ciência da Computação                 ║
-║  ESCOLA  → CESAR School, Recife — 2026~2029      ║
-║  FOCO    → Desenvolvimento de Jogos · Python     ║
+║  NOME       → Carlos Henrique                    ║
+║  CURSO      → Ciência da Computação              ║
+║  FACULDADE  → CESAR School, Recife — 2026~2029   ║
+║  FOCO       → Desenvolvimento de Jogos · Python  ║
 ╚══════════════════════════════════════════════════╝
 ```
 
